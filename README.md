@@ -1,5 +1,5 @@
 ## Yo, I'm Ang Jianming 🤙
-#### 💪 Keeping intro short, but full of character 💪
+#### 💪 Creating big impressions with fewer words. 💪
 
 <!--
 **AngJianming/AngJianming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Quotes -->
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=Just%20start,%20you%20can%20never%20be%20ready."/>
+  <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=Talk%20less,%20Do%20more."/>
 </a>
 
 <img src="/assets/duck-fire.webp" align="right" height="133px" style="padding-top: 55px"/>
