@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 - 🧑🏻‍💻 A Full-stack Developer documenting his projects and work
 - 🌱 Pursued his studies as a Software Engineer @ Asia Pacific University Malaysia (APU)
-- 👯 Makes interactive designs, animations and 3d websites in Web 2.0 and Web 3.0
-- 🤔 Currently diving deeper into Web 3.0, Blockchain technology and Cryptography as well as nts
-- 💬 Always looking for remote part-time with KPI or freelancing job opportunities 
-- 📫 How to reach me: Linkedin (www.linkedin.com/in/ang-jianming-3a2a3a319)
+- 🌟 Makes interactive designs, functions, wallets, animations and 3d websites in Web 2.0 and Web 3.0
+- 🤔 Currently diving deeper into Web 3.0, Blockchain technology and Cryptography as well as nfts
+- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities 
+- 💬 How to reach me: Linkedin (www.linkedin.com/in/ang-jianming-3a2a3a319)
 
 
 ## Tech Stack
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- Github Streaks -->
 <a href="https://git.io/streak-stats">
   <!--<img align=centre src="https://streak-stats.demolab.com?user=AngJianming&theme=highcontrast&border_radius=10" style="padding-bottom: 20px;"/></a>-->
-  <img align=left src="https://streak-stats.demolab.com/?user=AngJianming&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
+  <img align=right src="https://streak-stats.demolab.com/?user=AngJianming&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
 </a>
 
 <img src="/assets/running.webp" align="right" height="204px"/>
