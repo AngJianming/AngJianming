@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 <!-- Github Streaks -->
 <a href="https://git.io/streak-stats">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=highcontrast" alt="GitHub Streak" /></a>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AngJianming&theme=highcontrast)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AngJianming&theme=highcontrast" alt="GitHub Streak" /></a>
   <!--<img align=left src="https://streak-stats.demolab.com/?user=AngJianming&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>-->
 </a>
 
@@ -40,5 +39,5 @@ Here are some ideas to get you started:
 
 <!-- Most Used Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngJianming&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
 </a>
