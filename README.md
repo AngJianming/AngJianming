@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=Talk%20less,%20Do%20more."/>
 </a>
 
-<img src="Sucess kid.jpeg" align="right" height="133px" style="padding-top: 55px"/>
+<img src="Sucess Kid.jpeg" align="right" height="133px" style="padding-top: 55px"/>
 
 <!-- Github Streaks -->
 <a href="https://git.io/streak-stats">
