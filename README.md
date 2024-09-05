@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="Sucess Kid.jpg" align="right" height="133px" style="padding-top: 55px"/>
 
 <!-- Github Streaks -->
-<p align="centre">
+<p align="center">
     <a href="https://git.io/streak-stats">
       <!--<img align=centre src="https://streak-stats.demolab.com?user=AngJianming&theme=highcontrast&border_radius=10" style="padding-bottom: 20px;"/></a>-->
       <img align="centre" src="https://streak-stats.demolab.com/?user=AngJianming&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
