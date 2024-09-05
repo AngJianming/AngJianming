@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- Github Streaks -->
 <a href="https://git.io/streak-stats">
   <!--<img align=centre src="https://streak-stats.demolab.com?user=AngJianming&theme=highcontrast&border_radius=10" style="padding-bottom: 20px;"/></a>-->
-  <img align=right src="https://streak-stats.demolab.com/?user=AngJianming&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
+  <img align="centre" src="https://streak-stats.demolab.com/?user=AngJianming&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
 </a>
 
 <!--<img src="/assets/running.webp" align="right" height="204px"/>-->
