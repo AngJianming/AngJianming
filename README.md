@@ -35,14 +35,14 @@ Here are some ideas to get you started:
   <img align=right src="https://streak-stats.demolab.com/?user=AngJianming&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
 </a>
 
-<img src="/assets/running.webp" align="right" height="204px"/>
+<!--<img src="/assets/running.webp" align="right" height="204px"/>-->
 
 <!-- Github Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=Vincexodus&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=AngJianming&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
 </a>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincexodus&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngJianming&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
 </a>
