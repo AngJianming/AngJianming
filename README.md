@@ -12,7 +12,7 @@ Here are some ideas to get you started:
     <img src="https://profile-counter.glitch.me/AngJianming/count.svg"/>
 </h2>
 
-- 🧑🏻‍💻 A Full-stack Developer documenting projects and work @ via GitHub
+- 🧑🏻‍💻 A nub Full-stack Developer documenting projects and work @ via GitHub
 - 🌱 Pursued his studies as a Software Engineer @ Asia Pacific University Malaysia (APU)
 - 🌟 Makes interactive designs, functions, wallets, animations and 3d websites in Web 2.0 and Web 3.0
 - 🤔 Currently diving deeper into Web 3.0, Blockchain technology and Cryptography as well as nfts
