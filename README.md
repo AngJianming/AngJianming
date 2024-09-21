@@ -12,9 +12,9 @@ Here are some ideas to get you started:
     <img src="https://profile-counter.glitch.me/AngJianming/count.svg"/>
 </h2>
 
-- 🧑🏻‍💻 A nub Full-stack Developer documenting projects and work @ via GitHub
-- 🌱 Pursued his studies as a Software Engineer @ Asia Pacific University Malaysia (APU)
-- 🌟 Makes interactive designs, functions, wallets, animations and 3d websites in Web 2.0 and Web 3.0
+- 🧑🏻‍💻 I'm a nub Full-stack Developer documenting my projects and work @ via GitHub
+- 🌱 I pursued my studies as a Software Engineer @ Asia Pacific University Malaysia (APU)
+- 🌟 Love making interactive designs, functions, wallets, animations and 3d websites in Web 2.0 and Web 3.0
 - 🤔 Currently diving deeper into Web 3.0, Blockchain technology and Cryptography as well as nfts
 - 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities 
 - 💬 How to reach me: Linkedin (www.linkedin.com/in/ang-jianming-3a2a3a319)
