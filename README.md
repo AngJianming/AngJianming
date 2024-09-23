@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=Talk%20less,%20Do%20more."/>
 </a>
 
-<img src="Sucess Kid.jpg" align="right" height="133px" style="padding-top: 55px"/>
+<img src="Success Kid.jpg" align="right" height="133px" style="padding-top: 55px"/>
 
 <!-- Github Streaks -->
 <p align="center">
