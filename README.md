@@ -29,14 +29,6 @@ Here are some ideas to get you started:
   <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=Talk%20less,%20Do%20more."/>
 </a>
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=victorevolves&theme=dracula&border_radius=20&langs_count=8" width = "50%"/>
-    </td>
-  </tr>
-</table>
-
 <img src="Success Kid.jpeg" align="right" height="133px" style="padding-top: 55px"/>
 
 <!-- Github Streaks -->
@@ -57,3 +49,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngJianming&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
 </a>
+
+<!-- Waka Time Stats -->
+<table>
+  <tr>
+    <td colspan="1" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kavicastelo&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
+    </td>
+  </tr>
+</table>
