@@ -51,10 +51,7 @@ Here are some ideas to get you started:
 </a>
 
 <!-- Waka Time Stats -->
-<table>
-  <tr>
-    <td colspan="1" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AngJianming&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
-    </td>
-  </tr>
-</table>
+
+<td colspan="1" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kavicastelo&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
+</td>
