@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <!-- Waka Time Stats -->
 <td colspan="1" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kavicastelo&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=kavicastelo&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </td>
 
-<img src="Steve Harvey.gif" alt="Wow Man" style="width:200px;height:180;">
+<img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:400px;height:360;">
