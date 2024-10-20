@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:270px;height:300;">
+<img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:300px;height:300;">
