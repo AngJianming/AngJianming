@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- Quotes -->
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=My%30brain%30tells%30me%30that%30I'm%30tired,%30but%30my%30heart%30tells%30me%30to%30keep%30going."/>
+  <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=My%20brain%20tells%20me%30that%30I'm%30tired,%30but%30my%30heart%30tells%30me%30to%30keep%30going."/>
 </a>
 
 <img src="Success Kid.jpeg" align="right" height="133px" style="padding-top: 55px"/>
