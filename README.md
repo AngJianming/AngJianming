@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 🎒 I pursued my studies as a Software Engineer @ Asia Pacific University Malaysia (APU)
 - 🌟 Love making interactive designs, functions, wallets, animations and 3d websites in Web 2.0 and Web 3.0
 - 🤔 Currently diving deeper into Web 3.0, Blockchain technology and Cryptography as well as nfts
-- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities 
+<!-- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities -->
+- 💼 Currently working 2 jobs: Socrates's Freelance ambassador | Software engineer and IOT project manager at Credit APU
 - 💬 How to reach me: Linkedin (www.linkedin.com/in/ang-jianming-3a2a3a319)
 
 
