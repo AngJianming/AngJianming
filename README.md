@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 </a>
 
 <!-- Waka Time Stats -->
-<td colspan="1" align="center">
+<td colspan="0" align="center">
   <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=kavicastelo&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </td>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:320px;height:300;">
+<img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
