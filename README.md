@@ -3,7 +3,9 @@
     <b>Yo, I'm Ang Jianming 🤙</b>
 </h1>
     
-#### 💪 Creating big impressions with fewer words. 💪
+<h4 align="center">
+    <b>💪 Creating big impressions with fewer words. 💪</b>
+</h4>
 
 <!--
 **AngJianming/AngJianming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
