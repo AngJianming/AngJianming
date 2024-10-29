@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <!-- Quotes -->
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=My%20brain%20🧠❗%20tells%20me%20that%20I'm%20tired,%20but%20my%20heart%20❤️‍🩹%20tells%20me%20to%20keep%20going."/>
+  <img align=left src="https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal&quote=My%20brain%20🧠💤%20tells%20me%20that%20I'm%20tired,%20but%20my%20heart%20❤️‍🩹%20tells%20me%20to%20keep%20going."/>
 </a>
 
 <img src="Success Kid.jpeg" align="right" height="133px" style="padding-top: 55px"/>
