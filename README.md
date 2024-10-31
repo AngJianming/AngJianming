@@ -1,8 +1,10 @@
 <img align="center" src="https://raw.githubusercontent.com/patricnilackshan/patricnilackshan/main/images/CoverPhoto.gif" width="2500" height="400"></img>
+
 <h1 align="center">
-    <b>Yo, I'm Ang Jianming 🤙</b>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Yo+wussup+🤙;I'm+Ang+Jianming+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+Software+Engineer+👷🏻‍♂️;I'm+a+Full+Time+Learner+🤓;"/>
+<!--     <b>Yo, I'm Ang Jianming 🤙</b> -->
 </h1>
-    
+
 <h4 align="center">
     <b>💪 Creating big impressions with fewer words. 💪</b>
 </h4>
