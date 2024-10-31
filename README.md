@@ -67,3 +67,9 @@ Here are some ideas to get you started:
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
+</p> 
+
