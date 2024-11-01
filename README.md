@@ -73,6 +73,10 @@ Here are some ideas to get you started:
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AngJianming's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AngJianming&bg_color=1F222E&color=4787ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
+
+<!--bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF -->
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
