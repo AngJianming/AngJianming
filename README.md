@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 </td>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 <a href="https://github.com/AngJianming/github-readme-activity-graph"><img alt="AngJianming's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AngJianming&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
 
