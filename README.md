@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!-- Github Achievements --> 
 <br><br>
-![](https://github-profile-trophy.vercel.app/?username=AngJianming&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AngJianming&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
 <br><br>
 
 <!-- Quotes -->
