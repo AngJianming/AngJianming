@@ -72,9 +72,12 @@ Here are some ideas to get you started:
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div align="center">
+<div style="text-align: center;">
+  <span style="color: #36bcf7; text-decoration: underline; font-weight: bold;">
     Hackathon Expirence
+  </span>
 </div>
+<br>
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
