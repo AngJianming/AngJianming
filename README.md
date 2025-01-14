@@ -73,15 +73,9 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <details>
-<summary>
-<div align="center">
-  <strong>
-    <u>
-      <span style="color: #36bcf7;">Hackathon Expirence</span>
-    </u>
-  </strong>
-</div>
-</summary>
+  <summary> 
+    <h3>👨🏻‍💻 Hackathon Expirences</h3>
+  </summary>
 <br>
 
 | Position | Hackathon | Duration | Description | Link |
