@@ -71,7 +71,11 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
 <br>
-### Hackathon Experience
+
+<div align="center">
+    Hackathon Expirence
+</div>
+
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
 | Chamption | UM Datathon 24 | 2024 | Bitcoin Quant Algo Trading | [https://github.com/szeyu/UMDatathon-24](https://github.com/szeyu/UMDatathon-24) |
