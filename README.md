@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<details>
+<details align="center">
   <summary> 
     <h3>👨🏻‍💻 Hackathon Expirences</h3>
   </summary>
