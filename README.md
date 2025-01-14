@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<details>
+<summary>
 <div align="center">
   <strong>
     <u>
@@ -79,6 +81,7 @@ Here are some ideas to get you started:
     </u>
   </strong>
 </div>
+</summary>
 <br>
 
 | Position | Hackathon | Duration | Description | Link |
@@ -95,6 +98,7 @@ Here are some ideas to get you started:
 | Participant | KitaHack 24 | 2024 | Daily RUOK for daily mental health screening | [https://github.com/szeyu/Daily-RUOK](https://github.com/szeyu/Daily-RUOK) |
 | Participant | 1st Day Hack | 2022 | Allow people who are blind to move to other places which they haven't went before without guidance and assistance for other people. | [https://github.com/szeyu/1st_Day_Hack](https://github.com/szeyu/1st_Day_Hack) |
 
+</details>
 
 <a href="https://github.com/AngJianming/github-readme-activity-graph"><img alt="AngJianming's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AngJianming&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
 
