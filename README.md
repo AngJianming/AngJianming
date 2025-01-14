@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
+<details align="center">
   <summary> 
     <h3>👾 F-Sec & CTF Expirences</h3>
   </summary>
