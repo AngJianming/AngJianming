@@ -80,12 +80,12 @@ Here are some ideas to get you started:
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
-| Participant | GodamLah 24 | 2024 | AI eKYC Project (enhanced) | [https://github.com/szeyu/godamlah](https://github.com/szeyu/godamlah) |
-| Participant | PayHack 24 | 2024 | FinScope Project | [Figma Pitch Deck](https://www.figma.com/slides/MufVO3sqMea8EsumCE1kjP/FinScope-(Pitch-Deck)?node-id=25-19&t=mDYAVsJ3J9f5okOa-1) |
-| Participant | MYHackathon24 Cohort 1 | 2024 | A stackoverflow like website for public complaint | [https://github.com/szeyu/sepadu-underflow](https://github.com/szeyu/sepadu-underflow) |
-| Participant | MYHackathon24 Cohort 2 | 2024 | An AI listener who eavesdrop a phone call and give flag to suspicious call | [Drive Folder](https://drive.google.com/drive/folders/166w-dbR2m_pwjuXoyDbcI3gAv0X-Z2kB?usp=sharing) |
-| Participant | IHAX 24 | 2024 | A marketplace of PDF embedding which consist of learning materials | [https://github.com/szeyu/IHAX-2024-HMIR](https://github.com/szeyu/IHAX-2024-HMIR) |
-| Participant | UMHackathon 24 | 2024 | Chat RAG with personal finance data | [https://github.com/szeyu/PHMIR_umHack](https://github.com/szeyu/PHMIR_umHack) |
+| Participant | GodamLah 24 | 2024-11-16 | AI eKYC Project (enhanced) | [https://github.com/szeyu/godamlah](https://github.com/szeyu/godamlah) |
+| Participant |  | 2024 |  | []() |
+| Participant |  | 2024 |  | []() |
+| Participant |  | 2024 |  | []() |
+| Participant |  | 2024 |  | []() |
+| Participant |  | 2024 |  | []() |
 
 </details>
 
@@ -95,14 +95,12 @@ Here are some ideas to get you started:
   </summary>
 <br>
 
-| Position | Hackathon | Duration | Description | Link |
-|----------|-----------|----------|-------------|------|
-| Participant | GodamLah 24 | 2024 | AI eKYC Project (enhanced) | [https://github.com/szeyu/godamlah](https://github.com/szeyu/godamlah) |
-| Participant | PayHack 24 | 2024 | FinScope Project | [Figma Pitch Deck](https://www.figma.com/slides/MufVO3sqMea8EsumCE1kjP/FinScope-(Pitch-Deck)?node-id=25-19&t=mDYAVsJ3J9f5okOa-1) |
-| Participant | MYHackathon24 Cohort 1 | 2024 | A stackoverflow like website for public complaint | [https://github.com/szeyu/sepadu-underflow](https://github.com/szeyu/sepadu-underflow) |
-| Participant | MYHackathon24 Cohort 2 | 2024 | An AI listener who eavesdrop a phone call and give flag to suspicious call | [Drive Folder](https://drive.google.com/drive/folders/166w-dbR2m_pwjuXoyDbcI3gAv0X-Z2kB?usp=sharing) |
-| Participant | IHAX 24 | 2024 | A marketplace of PDF embedding which consist of learning materials | [https://github.com/szeyu/IHAX-2024-HMIR](https://github.com/szeyu/IHAX-2024-HMIR) |
-| Participant | UMHackathon 24 | 2024 | Chat RAG with personal finance data | [https://github.com/szeyu/PHMIR_umHack](https://github.com/szeyu/PHMIR_umHack) |
+| Position | F-Sec & CTF | Duration |
+|----------|-------------|----------|
+| Participant | SherpaCTF 2024 Jeopardy-style Capture The Flag (CTF) | 2024-11-23 |
+| Top 6 | Battle Of The Hackers - Forensic Game 2024 | 2024-09-28 |
+| Participant | FSIIEC Jeopardy-style Capture The Flag (CTF) | 2024-08-31 |
+
 
 </details>
 
