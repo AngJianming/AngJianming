@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
-| Participant | GodamLah Hackathon 2024 | 2024-11-16 | AI eKYC veriswift project | [https://github.com/szeyu/godamlah](https://github.com/szeyu/godamlah) |
+| Participant | GodamLah Hackathon 2024 | 2024-11-16 | AI eKYC veriswift project | [https://github.com/AngJianming/GODAMLah-Hackathon](https://github.com/AngJianming/GODAMLah-Hackathon) |
 | Participant |  | 2024 |  | []() |
 | Participant |  | 2024 |  | []() |
 | Participant |  | 2024 |  | []() |
