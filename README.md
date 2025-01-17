@@ -100,9 +100,9 @@ Here are some ideas to get you started:
     
 | Position | F-Sec & CTF | Duration | Link |
 |----------|-------------|----------|------|
-| Participant | SherpaCTF 2024 Jeopardy-style Capture The Flag (CTF) | 2024-11-23 | []() |
-| Top 6 | Battle Of The Hackers - Forensic Game 2024 | 2024-09-28 | []() |
-| Participant | FSIIEC Jeopardy-style Capture The Flag (CTF) | 2024-08-31 | []() |
+| Participant | SherpaCTF 2024 Jeopardy-style Capture The Flag (CTF) | 2024-11-23 | [lost the link](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
+| Top 6 | Battle Of The Hackers - Forensic Game 2024 | 2024-09-28 | [lost the link](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
+| Participant | FSIIEC Jeopardy-style Capture The Flag (CTF) | 2024-08-31 | [lost the link](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
 
 </div>
 
