@@ -81,11 +81,12 @@ Here are some ideas to get you started:
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
 | Participant | GodamLah Hackathon 2024 | 2024-11-16 | AI eKYC veriswift project | [https://github.com/AngJianming/GODAMLah-Hackathon](https://github.com/AngJianming/GODAMLah-Hackathon) |
-| Participant |  | 2024 |  | []() |
-| Participant |  | 2024 |  | []() |
-| Participant |  | 2024 |  | []() |
-| Participant |  | 2024 |  | []() |
-| Participant |  | 2024 |  | []() |
+| Participant | UMPSA x Huawei AppGalery Hackathon 2024 | 2024-11-04 | A Galery App that helps users do a good Habit quest | [https://github.com/AngJianming/UMPSA-x-Huawei-AppGalery-Hackathon-2024](https://github.com/AngJianming/UMPSA-x-Huawei-AppGalery-Hackathon-2024) |
+| Participant | Solana Radar Global Hackathon | 2024-10-8 | A Decentralised News platform with anonymous voting system coded | [https://github.com/AngJianming/Radar-Hackathon-OnlyNews](https://github.com/AngJianming/Radar-Hackathon-OnlyNews) |
+| Participant | Solana Radar Global Ideathon | 2024-08-30 | A Decentralised News platform with anonymous voting system figma design | [https://github.com/AngJianming/Radar-Hackathon-OnlyNews](https://github.com/AngJianming/Radar-Hackathon-OnlyNews) |
+| Participant | APUBCC DevMatch Hackathon 2024 | 2024-08-24 | Share Estate a Decentralised Property platform | [https://github.com/AngJianming/APUBCC-DevMatch-Hackathon-2024-ShareEstate](https://github.com/AngJianming/APUBCC-DevMatch-Hackathon-2024-ShareEstate) |
+| 3rd Place | Web 3 Entrepreneurship 101 Bootcamp Mini Hack DeFi Track | 2024-08-17 | Created a Sabar & Sarawak carbon credits donation platform | [LinkedIn Honors & awards](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
+| Participant | APUGDSC Google Workspace Hackathon | 2024-07-15 | Streamline for Better Evaluation of Sales and Service Communication | [APUGDSC Google Workspace Hackathon](https://github.com/AngJianming/APU-GDSC-Google-Workspace-Hackathon-2024) |
 
 </details>
 
@@ -97,11 +98,11 @@ Here are some ideas to get you started:
 
 <div align="center">
     
-| Position | F-Sec & CTF | Duration |
-|----------|-------------|----------|
-| Participant | SherpaCTF 2024 Jeopardy-style Capture The Flag (CTF) | 2024-11-23 |
-| Top 6 | Battle Of The Hackers - Forensic Game 2024 | 2024-09-28 |
-| Participant | FSIIEC Jeopardy-style Capture The Flag (CTF) | 2024-08-31 |
+| Position | F-Sec & CTF | Duration | Link |
+|----------|-------------|----------|------|
+| Participant | SherpaCTF 2024 Jeopardy-style Capture The Flag (CTF) | 2024-11-23 | []() |
+| Top 6 | Battle Of The Hackers - Forensic Game 2024 | 2024-09-28 | []() |
+| Participant | FSIIEC Jeopardy-style Capture The Flag (CTF) | 2024-08-31 | []() |
 
 </div>
 
