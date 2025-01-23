@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <details align="center">
   <summary> 
