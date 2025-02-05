@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 💬 How to reach me: Linkedin (www.linkedin.com/in/ang-jianming-3a2a3a319)
 <!-- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities -->
 
+<details align="left">
+<summary><h2>Tech Stack</h2></summary>
 
 ## Languages
 `English` | `Mandarin` | `Cantonese` | `Malay`<br>
@@ -54,6 +56,7 @@ Here are some ideas to get you started:
 ## AI Engineering & Automation tools
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)
 
+</details>
 
 <!-- Github Achievements --> 
 <br><br>
