@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💬 How to reach me: Linkedin (www.linkedin.com/in/ang-jianming-3a2a3a319)
 <!-- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities -->
 
-<details align="left">
+<details align="center">
 <summary><h2>Tech Stack</h2></summary>
 
 ## Languages
