@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities -->
 
 <details>
-<summary align="center" style="list-style: none; cursor: pointer;"><h2>-----        Tech Stack        -----</h2></summary>
+<summary align="center" style="list-style: none; cursor: pointer;"><h2>-----      🛠️  Tech Stack  ⚙️      -----</h2></summary>
 
 ---
 ### Languages
