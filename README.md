@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🧑🏻‍💻 I'm a nub Full-stack Developer documenting my work and projects @ via GitHub
 - 🎒 I pursued my studies as a Software Engineer specialised in AI @ Asia Pacific University Malaysia (APU)
-- 🌟 Love making interactive designs, functions, wallets, animations and 3d websites in Web 2.0 and Web 3.0
+- 🌟 Love making interactive frontend stuff, functions, crypto wallet connections, and 3d websites in Web 2.0 and Web 3.0
 - 🤔 Currently diving deeper into Web 3.0, Blockchain technology, Blink and Cryptography
 - 💼 Currently working 1 job: Software engineer and iot product producer at Credit APU
 - 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/ang-jianming-3a2a3a319/)
