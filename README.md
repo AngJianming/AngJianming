@@ -96,7 +96,9 @@ Here are some ideas to get you started:
 </td>
 
 <br><br><br><br><br>
+
 [![wakatime](https://wakatime.com/badge/user/7c0886d2-3689-4508-8f39-73a4fafd2e3e.svg)](https://wakatime.com/@7c0886d2-3689-4508-8f39-73a4fafd2e3e)
+
 <br><br><br><br><br><br><br><br><br><br>
 <img src="Steve Harvey.gif" alt="Wow Man" align=right style="width:310px;height:300;">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
