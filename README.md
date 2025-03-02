@@ -89,7 +89,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngJianming&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
 </a>
+<br>
 
+[![wakatime](https://wakatime.com/badge/user/7c0886d2-3689-4508-8f39-73a4fafd2e3e.svg)](https://wakatime.com/@7c0886d2-3689-4508-8f39-73a4fafd2e3e)
 <!-- Waka Time Stats -->
 <td colspan="0" align="left">
   <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=AngJianming&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
