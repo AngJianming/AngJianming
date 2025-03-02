@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/patricnilackshan/patricnilackshan/main/images/CoverPhoto.gif" width="2500" height="400"></img>
+<img align="center" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif" width="2500" height="400"></img>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Yo+wussup+🤙;I'm+Ang+Jianming+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+Software+Engineer+👷🏻‍♂️;I'm+a+Lifelong+Learner+🤓;"/>
