@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💼 Currently working 1 job: Software engineer and iot product producer at Credit APU
 - 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/ang-jianming-3a2a3a319/)
 <!-- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities -->
-<!--
+
 <details>
 <summary align="center" style="list-style: none; cursor: pointer;"><h2>-----      🛠️  Tech Stack  ⚙️      -----</h2></summary>
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ---
 </details>
--->
+
 <!-- Github Achievements --> 
 <br><br>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AngJianming&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
