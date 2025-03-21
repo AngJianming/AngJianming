@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌟 Love making interactive frontend, functions, crypto wallet connections, and 3d websites in Web 2.0 and Web 3.0
 - 🤔 Currently diving deeper into Web 3.0, Blockchain technology, Agentic AI and Cryptography
 - 💼 Currently working 1 job: Software engineer and iot product producer at Credit APU
-- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/ang-jianming-3a2a3a319/)
+- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/angjianming)
 <!-- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities -->
 
 <details>
