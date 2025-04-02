@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 <img src="Success Kid.jpeg" align="right" height="133px" style="padding-top: 55px"/>
 
+<h3>🔥 Stats 🔥</h3>
 <!-- Github Streaks -->
 <p align="center">
     <a href="https://git.io/streak-stats">
