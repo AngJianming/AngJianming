@@ -113,6 +113,7 @@ Here are some ideas to get you started:
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
+| Participant | Varsity Hackathon 2025 | 2025-3-17 | Pydantic Intraday Scalping and Algorithmic Trading AI (PISATA) ~ Varsity Hackathon 2025 | [https://github.com/AngJianming/PISATA](https://github.com/AngJianming/PISATA) |
 | Participant | GodamLah Hackathon 2024 | 2024-11-16 | AI eKYC veriswift project | [https://github.com/AngJianming/GODAMLah-Hackathon](https://github.com/AngJianming/GODAMLah-Hackathon) |
 | Participant | UMPSA x Huawei AppGalery Hackathon 2024 | 2024-11-04 | A Galery App that helps users do a good Habit quest | [https://github.com/AngJianming/UMPSA-x-Huawei-AppGalery-Hackathon-2024](https://github.com/AngJianming/UMPSA-x-Huawei-AppGalery-Hackathon-2024) |
 | Participant | Solana Radar Global Hackathon | 2024-10-8 | A Decentralised News platform with anonymous voting system coded | [https://github.com/AngJianming/Radar-Hackathon-OnlyNews](https://github.com/AngJianming/Radar-Hackathon-OnlyNews) |
