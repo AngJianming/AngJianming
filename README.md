@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <details>
 <summary align="center" style="list-style: none; cursor: pointer;"><h2>-----      🛠️  Tech Stack  ⚙️      -----</h2></summary>
 
----
 ### Languages
 `English` | `Chinese` | `Cantonese` | `Malay`<br>
 
