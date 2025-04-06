@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 </a>
 
 <img src="Success Kid.jpeg" align="right" height="133px" style="padding-top: 55px"/>
-</br>
+<br><br><br>
 
-<h3>🔥 Stats 🔥</h3>
+<h1 align="center">🔥 Stats 🔥</h1>
 <!-- Github Streaks -->
 <p align="center">
     <a href="https://git.io/streak-stats">
