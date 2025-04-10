@@ -114,15 +114,15 @@ Here are some ideas to get you started:
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
-| Participant | Google Kitahack 2025 | 2025-4-9 | DigiWastes ~ An app for e-recycling vending machine locator & AI electronics value detector | [KitaHack-2025-GDG](https://github.com/AngJianming/KitaHack-2025-GDG) |
-| Participant | Varsity Hackathon 2025 | 2025-3-17 | Pydantic Intraday Scalping and Algorithmic Trading AI (PISATA) ~ Varsity Hackathon 2025 | [PISATA](https://github.com/AngJianming/PISATA) |
-| Participant | GodamLah Hackathon 2024 | 2024-11-16 | AI eKYC veriswift project | [GODAMLah-Hackathon](https://github.com/AngJianming/GODAMLah-Hackathon) |
-| Participant | UMPSA x Huawei AppGalery Hackathon 2024 | 2024-11-04 | A Galery App that helps users do a good Habit quest | [UMPSA-x-Huawei-AppGalery-Hackathon-2024](https://github.com/AngJianming/UMPSA-x-Huawei-AppGalery-Hackathon-2024) |
-| Participant | Solana Radar Global Hackathon | 2024-10-8 | A Decentralised News platform with anonymous voting system coded | [Radar-Hackathon-OnlyNews](https://github.com/AngJianming/Radar-Hackathon-OnlyNews) |
-| Participant | Solana Radar Global Ideathon | 2024-08-30 | A Decentralised News platform with anonymous voting system figma design | [Radar-Hackathon-OnlyNews](https://github.com/AngJianming/Radar-Hackathon-OnlyNews) |
-| Participant | APUBCC DevMatch Hackathon 2024 | 2024-08-24 | Share Estate a Decentralised Property platform | [APUBCC-DevMatch-Hackathon-2024-ShareEstate](https://github.com/AngJianming/APUBCC-DevMatch-Hackathon-2024-ShareEstate) |
-| 3rd Place | Web 3 Entrepreneurship 101 Bootcamp Mini Hack DeFi Track | 2024-08-17 | Created a Sabar & Sarawak carbon credits donation platform | [LinkedIn Honors & awards](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
-| Participant | APUGDSC Google Workspace Hackathon | 2024-07-15 | Streamline for Better Evaluation of Sales and Service Communication | [APUGDSC-Google-Workspace-Hackathon](https://github.com/AngJianming/APU-GDSC-Google-Workspace-Hackathon-2024) |
+| Participant | Google Kitahack 2025 | 9th Apr 2025 | DigiWastes ~ An app for e-recycling vending machine locator & AI electronics value detector | [KitaHack-2025-GDG](https://github.com/AngJianming/KitaHack-2025-GDG) |
+| Participant | Varsity Hackathon 2025 | 17th Mar 2025 | Pydantic Intraday Scalping and Algorithmic Trading AI (PISATA) ~ Varsity Hackathon 2025 | [PISATA](https://github.com/AngJianming/PISATA) |
+| Participant | GodamLah Hackathon 2024 | 16th Nov 2024 | AI eKYC veriswift project | [GODAMLah-Hackathon](https://github.com/AngJianming/GODAMLah-Hackathon) |
+| Participant | UMPSA x Huawei AppGalery Hackathon 2024 | 4th Nov 2024 | A Galery App that helps users do a good Habit quest | [UMPSA-x-Huawei-AppGalery-Hackathon-2024](https://github.com/AngJianming/UMPSA-x-Huawei-AppGalery-Hackathon-2024) |
+| Participant | Solana Radar Global Hackathon | 8th Oct 2024 | A Decentralised News platform with anonymous voting system coded | [Radar-Hackathon-OnlyNews](https://github.com/AngJianming/Radar-Hackathon-OnlyNews) |
+| Participant | Solana Radar Global Ideathon | 30th Aug 2024 | A Decentralised News platform with anonymous voting system figma design | [Radar-Hackathon-OnlyNews](https://github.com/AngJianming/Radar-Hackathon-OnlyNews) |
+| Participant | APUBCC DevMatch Hackathon 2024 | 24th Aug 2024 | Share Estate a Decentralised Property platform | [APUBCC-DevMatch-Hackathon-2024-ShareEstate](https://github.com/AngJianming/APUBCC-DevMatch-Hackathon-2024-ShareEstate) |
+| 3rd Place | Web 3 Entrepreneurship 101 Bootcamp Mini Hack DeFi Track | 17th Aug 2024 | Created a Sabar & Sarawak carbon credits donation platform | [LinkedIn Honors & awards](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
+| Participant | APUGDSC Google Workspace Hackathon | 15th July 2024 | Streamline for Better Evaluation of Sales and Service Communication | [APUGDSC-Google-Workspace-Hackathon](https://github.com/AngJianming/APU-GDSC-Google-Workspace-Hackathon-2024) |
 
 </details>
 
@@ -136,9 +136,9 @@ Here are some ideas to get you started:
     
 | Position | F-Sec & CTF | Duration | Link |
 |----------|-------------|----------|------|
-| Participant | SherpaCTF 2024 Jeopardy-style Capture The Flag (CTF) | 2024-11-23 | [lost the link](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
-| Top 6 | Battle Of The Hackers - Forensic Game 2024 | 2024-09-28 | [lost the link](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
-| Participant | FSIIEC Jeopardy-style Capture The Flag (CTF) | 2024-08-31 | [lost the link](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
+| Participant | SherpaCTF 2024 Jeopardy-style Capture The Flag (CTF) | 23rd Nov 2024 | [LinkedIn](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
+| Top 6 | Battle Of The Hackers - Forensic Game 2024 | 28th Sep 2024 | [LinkedIn](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
+| Participant | FSIIEC Jeopardy-style Capture The Flag (CTF) | 31st Aug 2024 | [LinkedIn](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
 
 </div>
 
