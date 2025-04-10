@@ -114,6 +114,7 @@ Here are some ideas to get you started:
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
+| Participant | Google Kitahack 2025 | 2025-4-9 | DigiWastes ~ An app for e-recycling vending machine locator & AI electronics value detector | [https://github.com/AngJianming/KitaHack-2025-GDG](https://github.com/AngJianming/KitaHack-2025-GDG) |
 | Participant | Varsity Hackathon 2025 | 2025-3-17 | Pydantic Intraday Scalping and Algorithmic Trading AI (PISATA) ~ Varsity Hackathon 2025 | [https://github.com/AngJianming/PISATA](https://github.com/AngJianming/PISATA) |
 | Participant | GodamLah Hackathon 2024 | 2024-11-16 | AI eKYC veriswift project | [https://github.com/AngJianming/GODAMLah-Hackathon](https://github.com/AngJianming/GODAMLah-Hackathon) |
 | Participant | UMPSA x Huawei AppGalery Hackathon 2024 | 2024-11-04 | A Galery App that helps users do a good Habit quest | [https://github.com/AngJianming/UMPSA-x-Huawei-AppGalery-Hackathon-2024](https://github.com/AngJianming/UMPSA-x-Huawei-AppGalery-Hackathon-2024) |
