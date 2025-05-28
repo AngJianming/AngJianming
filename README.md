@@ -20,13 +20,13 @@ Here are some ideas to get you started:
     <img src="https://profile-counter.glitch.me/AngJianming/count.svg"/>
 </h2>
 
-- 🧑🏻‍💻 I'm a nub Full-stack Developer documenting my work and projects @ via GitHub
+- 🧑🏻‍💻 I'm a nub Full-stack Developer documenting my work and projects @ via [GitHub](https://github.com/AngJianming)
 - 🎒 I pursued my studies as a Software Engineer specialised in AI @ Asia Pacific University Malaysia (APU)
 - 🌟 Love making interactive frontend, functions, crypto wallet connections, and 3d websites in Web2 and Web3
 - 🤔 Currently diving deeper into Web3, Blockchain technology, Agentic AI and Cryptography
 - 💼 Currently working 1 job: Software engineer and iot product producer at Credit APU
 - 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/angjianming) || [Portfolio Website](https://angjianming.vercel.app/)
-<!-- 🕵️‍♂️ Always looking for remote part-time with KPI or freelancing job opportunities -->
+<!-- 🕵️‍♂️ Always looking for Remote with KPI or Freelancing job opportunities -->
 
 <details>
 <summary align="center" style="list-style: none; cursor: pointer;"><h2>-----      🛠️  Tech Stacks That I've Used so far...  ⚙️      -----</h2></summary>
