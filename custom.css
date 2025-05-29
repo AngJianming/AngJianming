@@ -1,0 +1,147 @@
+:root {
+  --background_color: #0d1117;
+  --darker_background_color: #010409;
+  --lighter_background_color: #171b22;
+  --border_color: #30363d;
+
+  --select_highlighted: #393f48;
+  --select_hover: #1f242c;
+  --select_background: #161b22;
+
+  --primary_color: #226ee9;
+}
+
+.typeWindows-2-g3UY,
+.scroller-3X7KbA,
+.clickable-vvKY2q,
+.scroller-1ox3I2,
+.title-31SJ6t,
+.scrollerInner-2PPAp2,
+.container-2o3qEW,
+.members-3WRCEx,
+.content-2a4AW9,
+.body-1FrnJD,
+.panel-2ZFCRb,
+.container-YkUktl,
+.wrapper-3Hk9OB {
+  background-color: var(--background_color) !important;
+  border-color: var(--border_color);
+  border-style: solid;
+  border-width: 0px;
+}
+
+.scroller-3X7KbA {
+  border-right-width: 1px;
+}
+
+.typeWindows-2-g3UY {
+  margin: 0;
+  border-bottom-width: 1px;
+}
+
+.scroller-1ox3I2 {
+  border-right-width: 1px;
+}
+
+.clickable-vvKY2q {
+  border-width: 0 1px 2px 0;
+}
+
+.title-31SJ6t {
+  border-bottom-width: 1px;
+}
+
+.container-2o3qEW {
+  border-left-width: 1px;
+}
+
+/* User panel */
+.container-YkUktl {
+  border-width: 1px 1px 0 0;
+}
+
+/* Game currently played */
+.panel-2ZFCRb {
+  border-width: 1px 1px 0 0;
+}
+
+/* VC panel */
+.wrapper-3Hk9OB {
+  border-width: 1px 1px 0 0;
+}
+
+/* Video and Screen button in VC */
+.button-1EGGcP {
+  background: var(--select_background) !important;
+
+  border-width: 2px;
+  border-radius: 0;
+
+  border-style: solid;
+  border-color: var(--border_color);
+
+  transition-duration: 0.5s;
+}
+
+.button-1EGGcP:hover {
+  background: var(--select_highlighted) !important;
+  border-color: #00000000;
+}
+
+/* Remove gradient below chat bar */
+.form-3gdLxP::before {
+  background: none !important;
+}
+
+.form-3gdLxP {
+  background: var(--background_color);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  background: var(--background_color);
+}
+
+/* Remove gradient from top of chat box */
+.children-3xh0VB::after {
+  display: none;
+}
+
+
+/* Chat input box */
+.scrollableContainer-15eg7h {
+  background-color: #0d1117 !important;
+  border-style: solid;
+  border-radius: 1px;
+  border-width: 1px;
+  border-color: #00ffff;
+}
+
+/* Messages */
+.messageListItem-ZZ7v6g {
+  border-radius: 8px;
+
+  margin: 0px 10px 0px 10px;
+
+  transition-duration: 0.3s;
+}
+
+.messageListItem-ZZ7v6g:hover {
+  background: var(--select_hover);
+}
+
+/* Message actions (edit, reply, etc) */
+.wrapper-2vIMkT {
+  background: #171b2255;
+
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0;
+
+  border-color: #00ffff55;
+}
+
+.wrapper-2vIMkT:hover {
+  border-color: #00ffffff;
+  background: #171b22ff;
+}
