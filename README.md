@@ -94,8 +94,8 @@ Here are some ideas to get you started:
 </a>
 
 <br>
-<a href="https://wakatime.com/share/@AngJianming/db141280-e10b-443a-b2ab-3e98178558d5.svg"><img src="https://wakatime.com/share/@AngJianming/db141280-e10b-443a-b2ab-3e98178558d5.svg" width= 300px></a>
-<a href="https://wakatime.com/share/@AngJianming/a6cdcb09-36d0-4a09-8e92-ae92f736c5d5.svg"><img src="https://wakatime.com/share/@AngJianming/a6cdcb09-36d0-4a09-8e92-ae92f736c5d5.svg" width= 300px></a>
+<a href="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg"><img src="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg" width= 300px></a>
+<a href="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg"><img src="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg" width= 300px></a>
 <br><br>
 
 <!-- Waka Time Stats -->
