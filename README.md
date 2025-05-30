@@ -107,7 +107,7 @@ Here are some ideas to get you started:
   <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=AngJianming&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </td>
 
-<br><br>
+<br><br><br>
 
 [![wakatime](https://wakatime.com/badge/user/7c0886d2-3689-4508-8f39-73a4fafd2e3e.svg)](https://wakatime.com/@7c0886d2-3689-4508-8f39-73a4fafd2e3e)
 
