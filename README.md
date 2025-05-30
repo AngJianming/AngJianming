@@ -95,10 +95,10 @@ Here are some ideas to get you started:
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<a href="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg"><img src="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg" width= 500px></a>
-<a href="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg"><img src="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg" width= 500px></a>
-<a href="https://wakatime.com/share/@AngJianming/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg"><img src="https://wakatime.com/share/@AngJianming/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg" width= 500px></a>
-<a href="https://wakatime.com/share/@AngJianming/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg"><img src="https://wakatime.com/share/@AngJianming/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg" width= 500px></a>
+<a align="center" href="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg"><img src="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg" width= 400px></a>
+<a align="center" href="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg"><img src="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg" width= 400px></a>
+<a align="center" href="https://wakatime.com/share/@AngJianming/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg"><img src="https://wakatime.com/share/@AngJianming/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg" width= 400px></a>
+<a align="center" href="https://wakatime.com/share/@AngJianming/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg"><img src="https://wakatime.com/share/@AngJianming/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg" width= 400px></a>
 <br><br>
 
 <!-- Waka Time Stats -->
