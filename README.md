@@ -95,10 +95,10 @@ Here are some ideas to get you started:
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<a align="center" href="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg"><img src="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg" width= 400px></a>
-<a align="center" href="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg"><img src="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg" width= 400px></a>
-<a align="center" href="https://wakatime.com/share/@AngJianming/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg"><img src="https://wakatime.com/share/@AngJianming/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg" width= 400px></a>
-<a align="center" href="https://wakatime.com/share/@AngJianming/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg"><img src="https://wakatime.com/share/@AngJianming/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg" width= 400px></a>
+<a href="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg"><img src="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg" width= 450px></a>
+<a href="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg"><img src="https://wakatime.com/share/@AngJianming/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg" width= 450px></a>
+<a href="https://wakatime.com/share/@AngJianming/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg"><img src="https://wakatime.com/share/@AngJianming/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg" width= 450px></a>
+<a href="https://wakatime.com/share/@AngJianming/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg"><img src="https://wakatime.com/share/@AngJianming/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg" width= 450px></a>
 <br><br>
 
 <!-- Waka Time Stats -->
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
   <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=AngJianming&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </td>
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 [![wakatime](https://wakatime.com/badge/user/7c0886d2-3689-4508-8f39-73a4fafd2e3e.svg)](https://wakatime.com/@7c0886d2-3689-4508-8f39-73a4fafd2e3e)
 
