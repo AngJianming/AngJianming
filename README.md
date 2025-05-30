@@ -93,6 +93,7 @@ Here are some ideas to get you started:
   <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngJianming&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
 </a>
 
+<!-- Waka Time Stats -->
 <br><br><br><br><br><br><br><br><br><br>
 <div align="center">
     <a href="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg"><img src="https://wakatime.com/share/@AngJianming/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg" width= 420px></a>
@@ -102,12 +103,11 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
-<!-- Waka Time Stats -->
 <td colspan="0" align="left">
   <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=AngJianming&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </td>
 
-<br><br><br>
+<br><br>
 
 [![wakatime](https://wakatime.com/badge/user/7c0886d2-3689-4508-8f39-73a4fafd2e3e.svg)](https://wakatime.com/@7c0886d2-3689-4508-8f39-73a4fafd2e3e)
 
