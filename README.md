@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 | Participant | Solana Radar Global Ideathon | 30th Aug 2024 | A Decentralised News platform with anonymous voting system figma design | [Radar-Hackathon-OnlyNews](https://github.com/AngJianming/Radar-Hackathon-OnlyNews) |
 | Participant | APUBCC DevMatch Hackathon 2024 | 24th Aug 2024 | Share Estate a Decentralised Property platform | [APUBCC-DevMatch-Hackathon-2024-ShareEstate](https://github.com/AngJianming/APUBCC-DevMatch-Hackathon-2024-ShareEstate) |
 | 3rd Place | Web 3 Entrepreneurship 101 Bootcamp Mini Hack DeFi Track | 17th Aug 2024 | Created a Sabar & Sarawak carbon credits donation platform | [LinkedIn Honors & awards](https://www.linkedin.com/in/ang-jianming-3a2a3a319/) |
-| Participant | APUGDSC Google Workspace Hackathon | 15th July 2024 | Streamline for Better Evaluation of Sales and Service Communication | [APUGDSC-Google-Workspace-Hackathon](https://github.com/AngJianming/APU-GDSC-Google-Workspace-Hackathon-2024) |
+| Participant | APUGDSC Google Workspace Hackathon | 15th Jul 2024 | Streamline for Better Evaluation of Sales and Service Communication | [APUGDSC-Google-Workspace-Hackathon](https://github.com/AngJianming/APU-GDSC-Google-Workspace-Hackathon-2024) |
 
 </details>
 
