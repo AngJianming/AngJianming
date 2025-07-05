@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 
 - 🧑🏻‍💻 I'm a nub Full-stack Developer documenting my work and projects @ via [GitHub](https://github.com/AngJianming)
-- 🎒 I pursued my studies as a Software Engineer specialised in AI @ Asia Pacific University Malaysia (APU)
+- 🎒 I pursued my studies as a Software Engineer specialised in AI/ML @ Asia Pacific University Malaysia (APU)
 - 🌟 Love making interactive frontend, functions, crypto wallet connections, and 3d websites in Web2 and Web3
 - 🤔 Currently diving deeper into Web3, Blockchain technology, Agentic AI and dAGI
 - 💼 Currently working 1 job: Software engineer and iot product producer at Credit APU
