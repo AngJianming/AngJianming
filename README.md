@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://profile-counter.glitch.me/AngJianming/count.svg"/>
 </h2>
 
-- 🧑🏻‍💻 "Experience": A Janitor that knows how to aura code (unpopular opinion: vibe code is obsolete)
+- 🧑🏻‍💻 "Experience" - A Janitor that knows how to aura code (unpopular opinion: vibe code is obsolete)
 - 🎒 Majored in Software Engineering with a side quest in AI/ML @ Asia Pacific University (a.k.a. Hogwarts for coders)
 - 🤔 Currently learning force push and pray.. and VIM (those big guys allergic to mouse)
 - 💼 Part-time IoT product summoner @ Credit APU (basically Tony Stark without budget)
