@@ -24,16 +24,8 @@ Here are some ideas to get you started:
 - 🎒 Majored in Software Engineering with a side quest in AI/ML @ Asia Pacific University (a.k.a. Hogwarts for coders)
 - 🤔 Currently learning force push and pray.. and VIM (those big guys allergic to mouse)
 - 💼 Part-time IoT product summoner @ Credit APU (basically Tony Stark without budget)
-- 🤯 Weirdo Facts: I don't drink coffee cause it gives me a heart attact everytime I take a sip..
+- 🤯 Weirdo Facts: I don't drink coffee ☕❌ cause it gives me a heart attact everytime I take a sip..
 - 💬 Want to summon me? Try a scroll spell → [LinkedIn](https://www.linkedin.com/in/angjianming) || [Portfolio Website](https://angjianming.vercel.app/) (it usually takes 48h to get a response)
-<!--
-- 🧑🏻‍💻 I'm a nub Full-stack Developer documenting my work and projects @ via [GitHub](https://github.com/AngJianming)
-- 🎒 I pursued my studies as a Software Engineer specialised in AI/ML @ Asia Pacific University Malaysia (APU)
-- 🌟 Love making interactive frontend, functions, crypto wallet connections, and 3d websites in Web2 and Web3
-- 🤔 Currently diving deeper into Web3, Blockchain technology, Agentic AI and dAGI
-- 💼 Currently working 1 job: Software engineer and iot product producer at Credit APU
-- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/angjianming) || [Portfolio Website](https://angjianming.vercel.app/)
--->
 <!-- 🕵️‍♂️ Always looking for Remote with KPI or Freelancing job opportunities -->
 
 <details>
