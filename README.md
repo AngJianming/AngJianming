@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🎒 Majored in Software Engineering with a side quest in AI/ML @ Asia Pacific University (a.k.a. Hogwarts for coders)
 - 🤔 Currently learning force push and pray.. and VIM (those big guys allergic to mouse)
 - 💼 Part-time IoT product summoner @ Credit APU (basically Tony Stark without budget)
-- 🤯 Weirdo Facts: I don't drink coffee ☕❌ cause it gives me a heart attact everytime I take a sip..
+- 🤯 Weirdo Facts: I don't drink coffee ☕❌ cuz it gives me a heart attact everytime I take a sip..
 - 💬 Want to summon me? Try a scroll spell → [LinkedIn](https://www.linkedin.com/in/angjianming) || [Portfolio Website](https://angjianming.vercel.app/) (it usually takes 48h to get a response)
 <!-- 🕵️‍♂️ Always looking for Remote with KPI or Freelancing job opportunities -->
 
