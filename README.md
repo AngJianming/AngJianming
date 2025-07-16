@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">
     <b>👀 Who Dares Peek</b><br/>
-    <img src="https://profile-counter.glitch.me/AngJianming/count.svg"/>
+    <img src="https://komarev.com/ghpvc/?username=AngJianming&label=Profile%20views&color=0e75b6&style=flat" alt="AngJianming" /> 
+<!--     <img src="https://profile-counter.glitch.me/AngJianming/count.svg"/> -->
 </h2>
 
 - 🧑🏻‍💻 "Experience" - A Janitor that knows how to aura code (unpopular opinion: vibe code is obsolete)
