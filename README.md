@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h2>
 
 - 🧑🏻‍💻 "Experience" - A Janitor that knows how to aura code (unpopular opinion: vibe code is obsolete)
-- 🎒 Majored in Software Engineering with a side quest in AI/ML @ Asia Pacific University (a.k.a. Hogwarts for coders)
+- 🎒 Majored in Software Engineering with a side quest in AI/ML @ Asia Pacific University (a.k.a. Malaysia's Waterloo)
 - 🤔 Currently learning force push and pray.. and VIM (those big guys allergic to mouse)
 - 💼 Part-time IoT product summoner @ Credit APU (basically Tony Stark without budget)
 - 🤯 Weirdo Facts: I don't drink coffee ☕❌ cuz it gives me a heart attact everytime I take a sip..
