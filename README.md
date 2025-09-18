@@ -124,6 +124,7 @@ Here are some ideas to get you started:
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
+| Top 19 | AWS Jam competition | 12th Sep 2025 | This a an AWS solution real-world cloud challenges in a team to simulated AWS Management Console sandbox environment to build and validate their AWS Cloud skills | [AWS Jam (the link of the result is destroyed so you will just have to trust me lol)](https://www.linkedin.com/posts/apu-aws-cloud-club-15a41528b_great-malaysia-ai-hackathon-participants-activity-7367190366720094209-erBP/) |
 | Participant | APUBCC DevMatch 2.0 Hackahton 2025 | 10th Aug 2025 | dEVMatch 2.0 Hackathon ~ NFT marketplace that can level up or rank up when earning a certain quest or task also a better bridge from Web2 to Web3 | [SuiRankup](https://github.com/AngJianming/SuiRankup) |
 | Participant | Databricks Smart Business Insights Challenge 2025 | 5th Jun 2025 | PickItUp ~ SLM with AWS RAG 78.2% accuracy in predicting future successful business strategies longterm | [PickItUp](https://hackathon.stackup.dev/web/events/databricks-smart-business-insights-challenge?tab=detail) |
 | Participant | Google Kitahack 2025 | 9th Apr 2025 | DigiWastes ~ An app for e-recycling vending machine locator & OpenCV AI Vision electronics value detector | [KitaHack-2025-GDG](https://github.com/AngJianming/KitaHack-2025-GDG) |
