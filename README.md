@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🧑🏻‍💻 "Experience" - A Janitor that knows how to aura code (unpopular opinion: vibe code is obsolete)
 - 🎒 Majored in Software Engineering with a side quest in AI/ML @ Asia Pacific University (a.k.a. Malaysia's Waterloo)
 - 🤔 Currently learning force push and pray.. and VIM (those big guys allergic to mouse)
-- 💼 Part-time IoT product summoner @ Credit APU (basically Tony Stark without budget)
+- 💼 Full-time AI Digital Marketing Automator @ IQI Global (basically Gary V without budget)
 - 🤯 Weirdo Facts: I don't drink coffee ☕❌ cuz it gives me a heart attack everytime I take a sip..
 - 💬 Want to summon me? Try a scroll spell → [LinkedIn](https://www.linkedin.com/in/angjianming) || [Portfolio Website](https://angjianming.vercel.app/) (it usually takes 48h to get a response)
 <!-- 🕵️‍♂️ Always looking for Remote with KPI or Freelancing job opportunities -->
